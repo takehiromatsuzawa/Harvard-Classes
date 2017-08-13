@@ -1,3 +1,5 @@
+# 1. Math Score Projection
+
 Abstract
 
 Math scores in the U.S. both lag behind international competitors and exhibit achievement gaps
@@ -22,3 +24,17 @@ students.
 
 We suggest that future research should delve further into these relationships and test
 them using experimental methods.
+
+# 2. Cs109 Final Project
+
+Project URL: http://cs109johncena.github.io/Seatgeek/
+
+
+# 3. google api prediction
+
+This repository is very useful when you want to get data by using google api
+
+### How to Use
+1. Create a model by using create_model.py
+2. Get Status of model by using get_status.py
+3. Predict by using predict_label.py
